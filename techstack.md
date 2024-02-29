@@ -3,22 +3,22 @@
 ## Tech Stack
 dazeb/homelab is built on the following main stack:
 
-- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- [Python](https://www.python.org) – Languages
 - [Golang](http://golang.org/) – Languages
-- [MySQL](http://www.mysql.com) – Databases
-- [NGINX](http://nginx.org) – Web Servers
-- [Kubernetes](http://kubernetes.io/) – Container Tools
-- [Nix](http://nixos.org/nix) – Package Managers
+- [Python](https://www.python.org) – Languages
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Testify](https://github.com/stretchr/testify) – Go Testing
+- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- [MySQL](http://www.mysql.com) – Databases
+- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - [Argo](https://argoproj.github.io/) – Container Tools
-- [OpenCensus](https://opencensus.io/) – Monitoring Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Kubernetes](http://kubernetes.io/) – Container Tools
+- [NGINX](http://nginx.org) – Web Servers
+- [Nix](http://nixos.org/nix) – Package Managers
+- [OpenCensus](https://opencensus.io/) – Monitoring Tools
+- [Testify](https://github.com/stretchr/testify) – Go Testing
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -28,22 +28,22 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dazeb/homelab is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1885/21_d3cvM.png' alt='Kubernetes'/> [Kubernetes](http://kubernetes.io/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4348/ET9J1uY-_400x400.png' alt='Nix'/> [Nix](http://nixos.org/nix) – Package Managers
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png' alt='gRPC'/> [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/9840/PqKLmP_S_400x400.jpg' alt='Argo'/> [Argo](https://argoproj.github.io/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg' alt='OpenCensus'/> [OpenCensus](https://opencensus.io/) – Monitoring Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1885/21_d3cvM.png' alt='Kubernetes'/> [Kubernetes](http://kubernetes.io/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4348/ET9J1uY-_400x400.png' alt='Nix'/> [Nix](http://nixos.org/nix) – Package Managers
+- <img width='25' height='25' src='https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg' alt='OpenCensus'/> [OpenCensus](https://opencensus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dazeb/homelab](https://github.com/dazeb/homelab)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|92<br/>Tools used|01/11/24 <br/>Report generated|
+|92<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
